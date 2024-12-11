@@ -16,4 +16,9 @@
 15. Create a function that will find the nth Fibonacci number using recursion
 16. Create a function that will return a Boolean specifying if a number is prime
 17. Calculate the sum of digits of a positive integer number
+18. Print the first 100 prime numbers
 
+20. Rotate an array to the left 1 position
+21. Rotate an array to the right 1 position
+22. Reverse an array
+23. Reverse a string
