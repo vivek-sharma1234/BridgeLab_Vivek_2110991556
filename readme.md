@@ -22,3 +22,5 @@
 21. Rotate an array to the right 1 position
 22. Reverse an array
 23. Reverse a string
+19. Create a function that will return in an array the first “p” prime numbers greater than “n”
+24. Create a function that will merge two arrays and return the result as a new array
