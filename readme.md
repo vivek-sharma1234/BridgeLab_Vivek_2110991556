@@ -38,3 +38,10 @@
 37. Create a function that will convert a string in an array containing the ASCII codes of each character
 38. Create a function that will convert an array containing ASCII codes in a string
 40. Implement the bubble sort algorithm for an array of numbers
+41. Create a function to calculate the distance between two points defined by their x, y coordinates
+42. Create a function that will return a Boolean value indicating if two circles defined by center coordinates and radius are intersecting
+44. Create a function that will convert a string containing a binary number into a number
+48. Create a function to return the longest word in a string
+49. Shuffle an array of strings
+52. Calculate Fibonacci(500) with high precision (all digits)
+53. Calculate 70! with high precision (all digits)
