@@ -26,3 +26,15 @@
 24. Create a function that will merge two arrays and return the result as a new array
 25. Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
 28. Calculate the sum of first 100 prime numbers and return them in an array
+26. Create a function that will receive two arrays and will return an array with elements that are in the first array but not in the second.
+27. Create a function that will receive an array of numbers as argument and will return a new array with distinct elements
+29. Print the distance between the first 100 prime numbers
+30. Create a function that will add two positive numbers of indefinite size. The numbers are received as strings and the result should be also provided as string.
+31. Create a function that will return the number of words in a text
+32. Create a function that will capitalize the first letter of each word in a text
+33. Calculate the sum of numbers received in a comma delimited string
+34. Create a function that returns an array with words inside a text.
+36. Create a function that converts a string to an array of characters
+37. Create a function that will convert a string in an array containing the ASCII codes of each character
+38. Create a function that will convert an array containing ASCII codes in a string
+40. Implement the bubble sort algorithm for an array of numbers
