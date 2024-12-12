@@ -24,3 +24,5 @@
 23. Reverse a string
 19. Create a function that will return in an array the first “p” prime numbers greater than “n”
 24. Create a function that will merge two arrays and return the result as a new array
+25. Create a function that will receive two arrays of numbers as arguments and return an array composed of all the numbers that are either in the first array or second array but not in both
+28. Calculate the sum of first 100 prime numbers and return them in an array
