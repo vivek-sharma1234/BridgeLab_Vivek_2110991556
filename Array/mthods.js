@@ -83,8 +83,8 @@ console.log(numArr);
 
 //slice()
 
-// let case1 = numArr.slice(0,3);
-// console.log(case1);
+let case1 = numArr.slice(0,3);
+//console.log(case1);
 
 
 // some()
