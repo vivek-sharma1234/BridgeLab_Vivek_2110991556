@@ -87,7 +87,7 @@ function sort(arr){
 
 }let arr7=[3,4,5,6];
 let arr8=[22,6,512,5];
-console.log(sort(arr7));
-console.log(sort(arr8));
+console.log(sort(arr7));//time complexity=O(n)
+console.log(sort(arr8));//Auxiliary Space=O(1)
 
 
