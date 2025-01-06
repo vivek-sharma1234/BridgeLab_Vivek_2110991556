@@ -12,7 +12,7 @@ function isBalancedParentheses(s) {
         }
         else if (char === ')' || char === '}' || char === ']') {
             if (stack.length === 0 || stack.pop() !== matchingParentheses[char]) {
-                return false;
+                return false; 
             }
         }
     }
@@ -20,5 +20,8 @@ function isBalancedParentheses(s) {
     return stack.length === 0;
 }
 
-console.log(isBalancedParentheses("()"));
-console.log(isBalancedParent
+console.log(isBalancedParentheses("()")); 
+console.log(isBalancedParentheses("({[()]})")); 
+console.log(isBalancedParentheses("({[})")); 
+console.log(isBalancedParentheses("((())){}[]"));
+console.log(isBalancedParentheses("(((()"));
