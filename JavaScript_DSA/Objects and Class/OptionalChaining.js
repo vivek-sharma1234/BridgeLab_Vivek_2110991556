@@ -4,9 +4,10 @@
 const user= {
     name:"Vivek",
     address:{
-        city:Una,
-        State:HTMLParagraphElement,
+        city:"Una",
+        State:"HP",
     }
+
 };
 
 console.log(user.address && user.address.city);

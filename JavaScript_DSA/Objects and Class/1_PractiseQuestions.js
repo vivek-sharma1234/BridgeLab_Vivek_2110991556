@@ -1,4 +1,4 @@
-
+//1.Question
 let obj1={
     name:"Vivek",
     age:{
